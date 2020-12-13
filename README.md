@@ -1,2 +1,2 @@
-# VladikRunner
-It's my mario-like game I do for second course of C#
+# RetroTanks
+It's my tanks-like game I do for second course of C#
